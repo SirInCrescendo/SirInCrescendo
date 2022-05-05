@@ -275,3 +275,5 @@ Texto con una nota al pie. [^notaza]
 [^2]: Otra descripción de la nota al pie.
 
 [^notaza]: Descripción de la notaza al pie.
+
+# [Enlace](./git.md) a las instrucciones de órdenes de Git
